@@ -1,0 +1,17 @@
+{
+    "select-file": "Select file",
+    "required": "The %s field is required.",
+    "invalid": "The %s field is invalid.",
+    "min-length": "The %s field must contain at least %s character(s).",
+    "max-length": "The %s field must not contain more than %s character(s).",
+    "min": "The %s field must be greater than or equal to %s.",
+    "max": "The %s field must be less than or equal to %s.",
+    "file": "The %s file upload failed.",
+    "color": "The %s field must be a color.",
+    "date": "The %s field must be a date.",
+    "time": "The %s field must be a time.",
+    "email": "The %s field must be an email.",
+    "number": "The %s field must be a number.",
+    "tel": "The %s field must be a phone.",
+    "url": "The %s field must be an URL."
+}

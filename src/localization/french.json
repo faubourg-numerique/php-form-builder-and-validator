@@ -1,0 +1,17 @@
+{
+    "select-file": "Sélectionner fichier",
+    "required": "Le champ %s est requis.",
+    "invalid": "Le champ %s est invalide.",
+    "min-length": "Le champ %s doit comporter au moins %s caractère(s).",
+    "max-length": "Le champ %s ne doit pas comporter plus de %s caractère(s).",
+    "min": "Le champ %s doit être supérieur ou égal à %s.",
+    "max": "Le champ %s doit être inférieur ou égal à %s.",
+    "file": "L'envoi du fichier %s a échoué.",
+    "color": "Le champ %s doit être une couleur.",
+    "date": "Le champ %s doit être une date.",
+    "time": "Le champ %s doit être une heure.",
+    "email": "Le champ %s doit être une adresse email.",
+    "number": "Le champ %s doit être un nombre.",
+    "tel": "Le champ %s doit être un numéro de téléphone.",
+    "url": "Le champ %s doit être une URL."
+}
